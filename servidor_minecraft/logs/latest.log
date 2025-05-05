@@ -1,0 +1,75 @@
+[02:39:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:39:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:39:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:39:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:39:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:39:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:39:53] [main/INFO]: Reloading ResourceManager: Default
+[02:39:55] [Worker-Main-2/INFO]: Loaded 7 recipes
+[02:39:56] [Worker-Main-2/INFO]: Loaded 927 advancements
+[02:39:58] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[02:39:58] [Server thread/INFO]: Loading properties
+[02:39:58] [Server thread/INFO]: Default game type: SURVIVAL
+[02:39:58] [Server thread/INFO]: Generating keypair
+[02:39:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:39:59] [Server thread/INFO]: Using epoll channel type
+[02:39:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:39:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:39:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:39:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:39:59] [Server thread/INFO]: Preparing level "world"
+[02:39:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:40:02] [Server thread/INFO]: Preparing spawn area: 0%
+[02:40:02] [Server thread/INFO]: Preparing spawn area: 0%
+[02:40:02] [Server thread/INFO]: Preparing spawn area: 0%
+[02:40:02] [Server thread/INFO]: Preparing spawn area: 0%
+[02:40:02] [Server thread/INFO]: Preparing spawn area: 0%
+[02:40:02] [Server thread/INFO]: Preparing spawn area: 0%
+[02:40:05] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[02:40:05] [Server thread/INFO]: Preparing spawn area: 10%
+[02:40:05] [Server thread/INFO]: Preparing spawn area: 10%
+[02:40:05] [Server thread/INFO]: Preparing spawn area: 10%
+[02:40:05] [Server thread/INFO]: Preparing spawn area: 10%
+[02:40:05] [Server thread/INFO]: Preparing spawn area: 10%
+[02:40:05] [Server thread/INFO]: Preparing spawn area: 10%
+[02:40:06] [Server thread/INFO]: Preparing spawn area: 28%
+[02:40:06] [Worker-Main-2/INFO]: Preparing spawn area: 77%
+[02:40:07] [Worker-Main-2/INFO]: Preparing spawn area: 85%
+[02:40:07] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[02:40:08] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[02:40:08] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[02:40:09] [Server thread/INFO]: Preparing spawn area: 87%
+[02:40:09] [Worker-Main-2/INFO]: Preparing spawn area: 88%
+[02:40:10] [Worker-Main-2/INFO]: Preparing spawn area: 91%
+[02:40:10] [Server thread/INFO]: Preparing spawn area: 93%
+[02:40:11] [Server thread/INFO]: Preparing spawn area: 94%
+[02:40:11] [Server thread/INFO]: Preparing spawn area: 97%
+[02:40:12] [Worker-Main-2/INFO]: Preparing spawn area: 99%
+[02:40:12] [Server thread/INFO]: Time elapsed: 12750 ms
+[02:40:12] [Server thread/INFO]: Done (12.887s)! For help, type "help"
+[02:40:48] [Server thread/INFO]: CazadorSky18[/127.254.91.178:43075] logged in with entity id 257 at (159.5, 74.0, 78.5)
+[02:40:48] [Server thread/INFO]: CazadorSky18 joined the game
+[02:40:59] [Server thread/INFO]: Made CazadorSky18 a server operator
+[02:41:22] [Server thread/INFO]: [Server] wazaaa
+[02:42:52] [Server thread/INFO]: CazadorSky18 has made the advancement [Stone Age]
+[02:44:18] [Server thread/INFO]: CazadorSky18 has made the advancement [Getting an Upgrade]
+[02:47:45] [Server thread/INFO]: CazadorSky18 lost connection: Disconnected
+[02:47:45] [Server thread/INFO]: CazadorSky18 left the game
+[02:47:55] [Server thread/INFO]: Set the time to 0
+[02:48:01] [Server thread/INFO]: CazadorSky18[/127.254.91.178:44423] logged in with entity id 1855 at (67.19951485163193, 68.0, -163.15322189851162)
+[02:48:01] [Server thread/INFO]: CazadorSky18 joined the game
+[02:48:18] [Server thread/INFO]: CazadorSky18 lost connection: Disconnected
+[02:48:18] [Server thread/INFO]: CazadorSky18 left the game
+[02:48:31] [Server thread/INFO]: Stopping the server
+[02:48:31] [Server thread/INFO]: Stopping server
+[02:48:31] [Server thread/INFO]: Saving players
+[02:48:31] [Server thread/INFO]: Saving worlds
+[02:48:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:48:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:48:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:48:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
