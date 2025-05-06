@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-06 02:08:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-05-05 02:17:35 +0000"
@@ -251,6 +257,7 @@
       "cooked_mutton": "2025-05-06 01:24:28 +0000",
       "cooked_beef": "2025-05-06 01:42:22 +0000",
       "beef": "2025-05-06 02:07:08 +0000",
+      "mutton": "2025-05-06 02:10:34 +0000",
       "rotten_flesh": "2025-05-06 01:23:25 +0000",
       "cooked_chicken": "2025-05-06 01:36:06 +0000"
     },
@@ -1220,6 +1227,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-06 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-06 02:08:12 +0000"
     },
     "done": true
   },

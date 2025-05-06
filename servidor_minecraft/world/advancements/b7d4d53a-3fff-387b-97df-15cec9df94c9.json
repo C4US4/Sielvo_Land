@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
+    "criteria": {
+      "has_gold_ore": "2025-05-06 02:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-05-06 01:34:17 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2025-05-06 01:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2025-05-06 02:08:28 +0000"
     },
     "done": true
   },
@@ -551,11 +563,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-06 02:16:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-06 01:31:43 +0000",
       "minecraft:mountains": "2025-05-06 01:37:33 +0000",
       "minecraft:river": "2025-05-06 01:48:09 +0000",
+      "minecraft:wooded_mountains": "2025-05-06 02:11:06 +0000",
       "minecraft:wooded_hills": "2025-05-06 01:30:32 +0000",
       "minecraft:plains": "2025-05-06 01:31:55 +0000"
     },
@@ -582,6 +601,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-06 01:30:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-06 02:17:08 +0000"
     },
     "done": true
   },
@@ -750,6 +775,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-05-06 01:34:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-06 02:10:01 +0000"
     },
     "done": true
   },

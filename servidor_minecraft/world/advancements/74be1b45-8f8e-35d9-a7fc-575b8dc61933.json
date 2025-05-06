@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2025-05-06 02:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-06 01:42:51 +0000"
@@ -378,6 +384,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-06 02:16:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-06 01:58:25 +0000"
@@ -621,6 +633,12 @@
       "in_water": "2025-05-06 01:22:20 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-06 02:16:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
