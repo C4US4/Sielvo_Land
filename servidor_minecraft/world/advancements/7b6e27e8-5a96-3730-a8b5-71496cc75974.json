@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 01:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-05-06 01:16:16 +0000"
@@ -241,8 +247,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-05-06 02:04:42 +0000",
       "cooked_mutton": "2025-05-06 01:24:28 +0000",
       "cooked_beef": "2025-05-06 01:42:22 +0000",
+      "beef": "2025-05-06 02:07:08 +0000",
       "rotten_flesh": "2025-05-06 01:23:25 +0000",
       "cooked_chicken": "2025-05-06 01:36:06 +0000"
     },
@@ -488,6 +496,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-06 01:59:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-05 02:18:36 +0000"
@@ -614,6 +628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 01:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-06 01:52:38 +0000"
@@ -710,6 +730,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-05 02:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-06 01:58:47 +0000"
     },
     "done": true
   },
@@ -1143,6 +1169,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-06 01:58:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-05-05 02:18:36 +0000"
@@ -1206,6 +1238,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-06 01:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2025-05-06 01:58:47 +0000"
     },
     "done": true
   },
