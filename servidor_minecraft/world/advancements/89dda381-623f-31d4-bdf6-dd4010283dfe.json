@@ -340,6 +340,8 @@
       "cooked_porkchop": "2025-05-06 00:43:34 +0000",
       "cooked_mutton": "2025-05-06 00:46:59 +0000",
       "cooked_beef": "2025-05-06 00:48:01 +0000",
+      "bread": "2025-05-06 02:30:38 +0000",
+      "golden_apple": "2025-05-06 02:33:16 +0000",
       "rotten_flesh": "2025-05-06 02:27:55 +0000",
       "cooked_chicken": "2025-05-06 00:43:32 +0000"
     },
@@ -1617,6 +1619,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-06 00:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-06 02:35:25 +0000"
     },
     "done": true
   },

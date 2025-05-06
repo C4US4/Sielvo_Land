@@ -352,6 +352,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-06 02:29:37 +0000",
       "rotten_flesh": "2025-05-06 02:17:25 +0000"
     },
     "done": false
