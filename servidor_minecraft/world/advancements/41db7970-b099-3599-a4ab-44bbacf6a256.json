@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2025-05-06 03:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-06 02:15:54 +0000"
@@ -213,6 +219,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-06 02:28:30 +0000",
       "chicken": "2025-05-06 02:41:34 +0000",
+      "cooked_mutton": "2025-05-06 03:06:38 +0000",
       "cooked_beef": "2025-05-06 02:21:10 +0000",
       "porkchop": "2025-05-06 02:42:21 +0000",
       "bread": "2025-05-06 02:34:41 +0000",
@@ -587,6 +594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-05-06 03:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_shovel": "2025-05-06 02:17:30 +0000"
@@ -875,6 +888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-06 02:59:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-06 02:17:36 +0000"
@@ -1001,6 +1020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-06 03:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-06 02:13:31 +0000",
@@ -1092,6 +1117,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-05-06 02:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-06 03:05:29 +0000"
     },
     "done": true
   },
@@ -1212,6 +1243,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-06 02:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-06 03:05:37 +0000"
     },
     "done": true
   },
