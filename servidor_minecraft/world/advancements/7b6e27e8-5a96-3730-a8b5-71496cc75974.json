@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-06 01:34:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-05-06 01:16:16 +0000"
@@ -314,7 +320,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-05-06 01:24:28 +0000",
-      "rotten_flesh": "2025-05-06 01:23:25 +0000"
+      "rotten_flesh": "2025-05-06 01:23:25 +0000",
+      "cooked_chicken": "2025-05-06 01:36:06 +0000"
     },
     "done": false
   },
@@ -381,6 +388,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-06 01:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-06 01:28:07 +0000"
     },
     "done": true
   },
@@ -486,6 +499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-06 01:28:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-05 02:17:35 +0000"
@@ -552,6 +571,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-05-06 01:28:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-05-05 02:18:36 +0000"
@@ -582,9 +607,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-06 01:33:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-05 02:16:57 +0000",
+      "minecraft:mountains": "2025-05-06 01:37:10 +0000",
+      "minecraft:river": "2025-05-06 01:36:40 +0000",
       "minecraft:wooded_hills": "2025-05-05 02:18:31 +0000",
       "minecraft:plains": "2025-05-06 01:18:15 +0000"
     },
@@ -784,6 +817,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-06 01:34:30 +0000",
       "minecraft:zombie": "2025-05-06 01:23:20 +0000"
     },
     "done": false
@@ -815,6 +849,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-06 01:19:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-06 01:28:07 +0000"
     },
     "done": true
   },

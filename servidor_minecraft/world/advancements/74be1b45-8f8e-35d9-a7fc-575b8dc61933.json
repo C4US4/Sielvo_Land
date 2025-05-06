@@ -1,13 +1,31 @@
 {
-  "minecraft:recipes/transportation/acacia_boat": {
+  "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "in_water": "2025-05-06 01:22:20 +0000"
+      "has_the_recipe": "2025-05-06 01:37:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
-      "in_water": "2025-05-06 01:22:20 +0000"
+      "has_chicken": "2025-05-06 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-06 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-05-06 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-05-06 01:37:22 +0000"
     },
     "done": true
   },
@@ -17,9 +35,175 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-06 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-06 01:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-06 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-06 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-05-06 01:22:10 +0000",
+      "minecraft:mountains": "2025-05-06 01:26:05 +0000",
+      "minecraft:river": "2025-05-06 01:25:22 +0000",
+      "minecraft:wooded_hills": "2025-05-06 01:22:28 +0000",
+      "minecraft:plains": "2025-05-06 01:25:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-05-06 01:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-05-06 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-05-06 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2025-05-06 01:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-06 01:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-05-06 01:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-06 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-05-06 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-06 01:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-05-06 01:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-06 01:36:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-06 01:36:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-06 01:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-06 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2025-05-06 01:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2025-05-06 01:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-06 01:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-06 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2025-05-06 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-05-06 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-06 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-06 01:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-06 01:36:36 +0000"
     },
     "done": true
   },
@@ -34,16 +218,6 @@
       "in_water": "2025-05-06 01:22:20 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-05-06 01:22:10 +0000",
-      "minecraft:mountains": "2025-05-06 01:26:05 +0000",
-      "minecraft:river": "2025-05-06 01:25:22 +0000",
-      "minecraft:wooded_hills": "2025-05-06 01:22:28 +0000",
-      "minecraft:plains": "2025-05-06 01:25:06 +0000"
-    },
-    "done": false
   },
   "DataVersion": 2586
 }
