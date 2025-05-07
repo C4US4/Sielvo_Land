@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_double_plant": "2025-05-07 02:57:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-05-07 02:00:31 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-05-07 02:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-07 03:00:34 +0000"
     },
     "done": true
   },
@@ -656,6 +668,7 @@
       "minecraft:forest": "2025-05-06 02:15:30 +0000",
       "minecraft:mountains": "2025-05-06 02:19:12 +0000",
       "minecraft:taiga": "2025-05-07 02:42:20 +0000",
+      "minecraft:taiga_hills": "2025-05-07 03:07:31 +0000",
       "minecraft:beach": "2025-05-07 02:47:21 +0000",
       "minecraft:river": "2025-05-06 02:16:33 +0000",
       "minecraft:wooded_mountains": "2025-05-07 02:00:30 +0000",
@@ -880,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-07 03:00:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-07 01:32:52 +0000"
@@ -1100,6 +1119,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-07 02:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-07 03:07:45 +0000"
     },
     "done": true
   },
