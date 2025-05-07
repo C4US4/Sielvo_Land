@@ -100,3 +100,35 @@
 [01:56:49] [Server thread/INFO]: ByStryker12 joined the game
 [01:57:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=170, y=66, z=82}
 [01:57:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=170, y=65, z=82}
+[01:57:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=170, y=64, z=82}
+[01:57:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=170, y=64, z=82}
+[01:57:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=170, y=64, z=82}
+[01:57:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=170, y=65, z=82}
+[01:58:08] [Server thread/INFO]: ByStryker12 lost connection: You logged in from another location
+[01:58:08] [Server thread/INFO]: ByStryker12 left the game
+[01:58:08] [Server thread/INFO]: ByStryker12[/127.231.3.97:50631] logged in with entity id 48659 at (169.78634601618205, 64.0, 83.30000001192093)
+[01:58:08] [Server thread/INFO]: ByStryker12 joined the game
+[01:58:37] [Server thread/INFO]: m4rtin015sep lost connection: Disconnected
+[01:58:37] [Server thread/INFO]: m4rtin015sep left the game
+[02:00:20] [Server thread/INFO]: ByStryker12 has made the advancement [Stone Age]
+[02:01:47] [Server thread/INFO]: ByStryker12 has made the advancement [Getting an Upgrade]
+[02:02:23] [Server thread/INFO]: m4rtin015sep[/127.15.246.136:40425] logged in with entity id 51363 at (280.34601187909095, 60.0, -247.35386836430865)
+[02:02:23] [Server thread/INFO]: m4rtin015sep joined the game
+[02:03:28] [Server thread/INFO]: Christoro123[/127.98.35.230:35055] logged in with entity id 52332 at (226.58269868103122, 52.5625, -216.69999998807907)
+[02:03:28] [Server thread/INFO]: Christoro123 joined the game
+[02:03:45] [Server thread/INFO]: Christoro123 lost connection: Disconnected
+[02:03:45] [Server thread/INFO]: Christoro123 left the game
+[02:04:29] [Server thread/INFO]: be_vixd156 has made the advancement [Sweet Dreams]
+[02:04:56] [Server thread/INFO]: <m4rtin015sep> 333 -380
+[02:04:57] [Server thread/INFO]: Christoro123[/127.98.35.230:52607] logged in with entity id 53675 at (226.58269868103122, 52.5625, -216.69999998807907)
+[02:04:57] [Server thread/INFO]: Christoro123 joined the game
+[02:06:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-216, y=64, z=276} fx{x=-216, y=62, z=276}
+[02:06:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-212, y=63, z=272} fx{x=-213, y=62, z=272}
+[02:06:43] [Server thread/INFO]: Christoro123 lost connection: Timed out
+[02:06:43] [Server thread/INFO]: Christoro123 left the game
+[02:06:53] [Server thread/INFO]: KNISPEL_ lost connection: Disconnected
+[02:06:53] [Server thread/INFO]: KNISPEL_ left the game
+[02:07:02] [Server thread/INFO]: KNISPEL_[/127.251.45.86:33329] logged in with entity id 55205 at (426.72114423204914, 78.0, -40.39483421887232)
+[02:07:02] [Server thread/INFO]: KNISPEL_ joined the game
+[02:07:06] [Server thread/INFO]: Christoro123[/127.98.35.230:47529] logged in with entity id 55342 at (220.53780548989525, 51.0, -214.72016411334286)
+[02:07:06] [Server thread/INFO]: Christoro123 joined the game
