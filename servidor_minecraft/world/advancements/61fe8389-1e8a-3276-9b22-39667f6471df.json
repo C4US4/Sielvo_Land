@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2025-05-07 01:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-05-06 02:15:34 +0000"
@@ -164,7 +170,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-06 02:29:37 +0000",
-      "rotten_flesh": "2025-05-06 02:17:25 +0000"
+      "cooked_beef": "2025-05-07 01:47:32 +0000",
+      "rotten_flesh": "2025-05-06 02:17:25 +0000",
+      "cooked_chicken": "2025-05-07 01:48:04 +0000"
     },
     "done": false
   },
@@ -309,6 +317,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-06 02:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2025-05-07 01:53:25 +0000"
     },
     "done": true
   },

@@ -67,3 +67,36 @@
 [01:46:22] [Server thread/INFO]: <be_vixd156> x=188
 [01:46:35] [Server thread/INFO]: <be_vixd156> y=74
 [01:46:47] [Server thread/INFO]: <be_vixd156> z= 729
+[01:47:00] [Server thread/INFO]: <be_vixd156> z=329*
+[01:47:05] [Server thread/INFO]: <be_vixd156> esa es
+[01:49:56] [Server thread/INFO]: Aleeee[/127.127.204.233:43389] logged in with entity id 44360 at (430.39492473682543, 108.0, -87.84134034844497)
+[01:49:56] [Server thread/INFO]: Aleeee joined the game
+[01:49:57] [Server thread/INFO]: <m4rtin015sep> duemen?
+[01:50:26] [Server thread/INFO]: Aleeee has made the advancement [The Parrots and the Bats]
+[01:51:36] [Server thread/INFO]: <m4rtin015sep> benja
+[01:51:46] [Server thread/INFO]: <m4rtin015sep> duerme
+[01:52:12] [Server thread/INFO]: be_vixd156 lost connection: Disconnected
+[01:52:12] [Server thread/INFO]: be_vixd156 left the game
+[01:52:15] [Server thread/INFO]: KNISPEL_ lost connection: Disconnected
+[01:52:15] [Server thread/INFO]: KNISPEL_ left the game
+[01:52:17] [Server thread/INFO]: Aleeee lost connection: Disconnected
+[01:52:17] [Server thread/INFO]: Aleeee left the game
+[01:52:23] [Server thread/INFO]: Aleeee[/127.127.204.233:55877] logged in with entity id 45258 at (426.5843091321885, 79.0, -73.05458960576298)
+[01:52:23] [Server thread/INFO]: Aleeee joined the game
+[01:52:23] [Server thread/INFO]: KNISPEL_[/127.251.45.86:54673] logged in with entity id 45278 at (445.59432556757724, 77.0, -55.19077680627077)
+[01:52:23] [Server thread/INFO]: KNISPEL_ joined the game
+[01:52:25] [Server thread/INFO]: be_vixd156[/127.70.211.196:51373] logged in with entity id 45381 at (189.24370443810125, 68.0, 357.69999998807907)
+[01:52:25] [Server thread/INFO]: be_vixd156 joined the game
+[01:54:44] [Server thread/WARN]: Fetching packet for removed entity bcv['Dirt'/46632, l='ServerLevel[world]', x=269.88, y=63.27, z=-244.88]
+[01:55:39] [Server thread/INFO]: ByStryker12[/127.231.3.97:59403] logged in with entity id 47120 at (170.5, 66.0, 77.5)
+[01:55:39] [Server thread/INFO]: ByStryker12 joined the game
+[01:55:51] [Server thread/INFO]: <m4rtin015sep> y este random
+[01:56:09] [Server thread/INFO]: <ByStryker12> random pero buena persona pibe
+[01:56:12] [Server thread/INFO]: <m4rtin015sep> 275 -248
+[01:56:14] [Server thread/INFO]: <ByStryker12> se dice buenas noches
+[01:56:49] [Server thread/INFO]: ByStryker12 lost connection: You logged in from another location
+[01:56:49] [Server thread/INFO]: ByStryker12 left the game
+[01:56:49] [Server thread/INFO]: ByStryker12[/127.180.136.182:38531] logged in with entity id 47857 at (170.2113304859368, 64.0, 81.69999998807907)
+[01:56:49] [Server thread/INFO]: ByStryker12 joined the game
+[01:57:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=170, y=66, z=82}
+[01:57:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=170, y=65, z=82}
