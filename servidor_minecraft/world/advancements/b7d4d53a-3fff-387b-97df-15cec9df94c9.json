@@ -237,6 +237,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-06 01:34:24 +0000",
       "cooked_mutton": "2025-05-06 02:34:30 +0000",
+      "bread": "2025-05-07 01:13:36 +0000",
       "cooked_chicken": "2025-05-06 02:23:10 +0000"
     },
     "done": false
@@ -376,6 +377,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2025-05-07 01:04:41 +0000",
+      "minecraft:cow": "2025-05-07 01:10:57 +0000",
       "minecraft:chicken": "2025-05-06 02:37:32 +0000"
     },
     "done": false
