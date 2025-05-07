@@ -708,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-07 23:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-05-06 00:44:11 +0000"
@@ -1367,6 +1373,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-07 23:47:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-05-06 02:01:51 +0000"
@@ -1714,9 +1726,11 @@
       "minecraft:forest": "2025-05-06 00:31:56 +0000",
       "minecraft:mountains": "2025-05-06 00:38:09 +0000",
       "minecraft:taiga": "2025-05-07 02:40:33 +0000",
+      "minecraft:beach": "2025-05-07 23:45:39 +0000",
       "minecraft:river": "2025-05-06 00:38:06 +0000",
       "minecraft:wooded_mountains": "2025-05-06 00:40:51 +0000",
       "minecraft:wooded_hills": "2025-05-06 00:33:42 +0000",
+      "minecraft:stone_shore": "2025-05-07 23:46:21 +0000",
       "minecraft:plains": "2025-05-06 00:37:35 +0000"
     },
     "done": false
