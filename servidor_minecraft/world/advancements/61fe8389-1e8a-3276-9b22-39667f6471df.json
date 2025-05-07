@@ -53,15 +53,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_sword": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-07 02:12:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-05-07 02:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-07 02:12:51 +0000"
     },
     "done": true
   },
@@ -155,15 +155,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2025-05-07 02:12:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-07 02:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-07 02:12:51 +0000"
     },
     "done": true
   },
@@ -272,6 +272,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-05-07 02:00:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-07 02:15:47 +0000"
     },
     "done": true
   },
@@ -602,13 +608,20 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-07 02:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-05-06 02:15:30 +0000",
       "minecraft:mountains": "2025-05-06 02:19:12 +0000",
       "minecraft:river": "2025-05-06 02:16:33 +0000",
       "minecraft:wooded_mountains": "2025-05-07 02:00:30 +0000",
-      "minecraft:wooded_hills": "2025-05-06 02:14:39 +0000"
+      "minecraft:wooded_hills": "2025-05-06 02:14:39 +0000",
+      "minecraft:plains": "2025-05-07 02:15:22 +0000"
     },
     "done": false
   },
@@ -870,9 +883,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lantern": {
+  "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "has_iron_ingot": "2025-05-07 02:12:51 +0000"
+      "has_white_wool": "2025-05-07 02:00:31 +0000"
     },
     "done": true
   },
@@ -882,9 +895,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_carpet": {
+  "minecraft:recipes/decorations/lantern": {
     "criteria": {
-      "has_white_wool": "2025-05-07 02:00:31 +0000"
+      "has_iron_ingot": "2025-05-07 02:12:51 +0000"
     },
     "done": true
   },
