@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-07 03:15:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-06 00:34:06 +0000"
@@ -367,6 +373,7 @@
       "bread": "2025-05-06 02:30:38 +0000",
       "golden_apple": "2025-05-06 02:33:16 +0000",
       "rotten_flesh": "2025-05-06 02:27:55 +0000",
+      "golden_carrot": "2025-05-07 03:10:21 +0000",
       "cooked_chicken": "2025-05-06 00:43:32 +0000"
     },
     "done": false
@@ -374,6 +381,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-05-06 00:34:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_the_recipe": "2025-05-07 03:09:36 +0000"
     },
     "done": true
   },
@@ -904,6 +917,7 @@
       "minecraft:skeleton": "2025-05-06 01:15:47 +0000",
       "minecraft:spider": "2025-05-06 00:39:13 +0000",
       "minecraft:creeper": "2025-05-06 00:44:26 +0000",
+      "minecraft:phantom": "2025-05-07 03:12:50 +0000",
       "minecraft:zombie": "2025-05-06 00:44:35 +0000",
       "minecraft:zombie_villager": "2025-05-06 01:12:22 +0000"
     },
@@ -1041,6 +1055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-07 03:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-06 01:49:45 +0000"
@@ -1116,6 +1136,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-06 01:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_the_recipe": "2025-05-07 03:08:59 +0000"
     },
     "done": true
   },
@@ -1374,6 +1400,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-06 02:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-05-07 03:13:12 +0000"
     },
     "done": true
   },
@@ -1773,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-07 03:14:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-06 00:50:17 +0000"
@@ -1959,6 +1997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-05-07 03:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-07 02:28:57 +0000"
@@ -2052,6 +2096,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-06 00:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2025-05-07 03:15:15 +0000"
     },
     "done": true
   },
