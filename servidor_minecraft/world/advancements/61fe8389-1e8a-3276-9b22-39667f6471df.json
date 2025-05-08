@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-08 00:16:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-06 02:21:47 +0000"
@@ -914,6 +920,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-07 02:46:23 +0000",
+      "minecraft:enderman": "2025-05-08 00:20:32 +0000",
       "minecraft:zombie": "2025-05-06 02:17:14 +0000"
     },
     "done": false
