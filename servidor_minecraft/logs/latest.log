@@ -1,8 +1,59 @@
-[02:14:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:14:15] [main/FATAL]: Failed to start the minecraft server
-aex$a: /workspaces/Sielvo_Land/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
-	at aex$a.a(SourceFile:98) ~[vanilla.jar:?]
-	at aex.a(SourceFile:44) ~[vanilla.jar:?]
-	at cyg$a.<init>(SourceFile:287) ~[vanilla.jar:?]
-	at cyg.c(SourceFile:275) ~[vanilla.jar:?]
-	at net.minecraft.server.Main.main(SourceFile:118) [vanilla.jar:?]
+[02:19:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:19:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:19:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:19:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:19:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:19:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:19:59] [main/INFO]: Reloading ResourceManager: Default
+[02:20:00] [Worker-Main-2/INFO]: Loaded 7 recipes
+[02:20:01] [Worker-Main-2/INFO]: Loaded 927 advancements
+[02:20:03] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[02:20:03] [Server thread/INFO]: Loading properties
+[02:20:03] [Server thread/INFO]: Default game type: SURVIVAL
+[02:20:03] [Server thread/INFO]: Generating keypair
+[02:20:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:20:04] [Server thread/INFO]: Using epoll channel type
+[02:20:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:20:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:20:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:20:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:20:04] [Server thread/INFO]: Preparing level "world"
+[02:20:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:20:06] [Server thread/INFO]: Preparing spawn area: 0%
+[02:20:06] [Server thread/INFO]: Preparing spawn area: 0%
+[02:20:06] [Server thread/INFO]: Preparing spawn area: 0%
+[02:20:06] [Server thread/INFO]: Preparing spawn area: 0%
+[02:20:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:20:07] [Server thread/INFO]: Preparing spawn area: 51%
+[02:20:07] [Server thread/INFO]: Time elapsed: 3099 ms
+[02:20:07] [Server thread/INFO]: Done (3.215s)! For help, type "help"
+[02:21:18] [Server thread/INFO]: Christoro123[/127.98.35.230:51641] logged in with entity id 121 at (223.30000001192093, 68.0, -193.6738052288999)
+[02:21:18] [Server thread/INFO]: Christoro123 joined the game
+[02:23:06] [Server thread/INFO]: CazadorSky18[/127.181.17.126:58637] logged in with entity id 540 at (-164.22793420034654, 70.0, 708.8335533968641)
+[02:23:06] [Server thread/INFO]: CazadorSky18 joined the game
+[02:23:21] [Server thread/INFO]: CazadorSky18 lost connection: Timed out
+[02:23:21] [Server thread/INFO]: CazadorSky18 left the game
+[02:23:53] [Server thread/INFO]: CazadorSky18[/127.181.17.126:35477] logged in with entity id 1085 at (-164.22793420034654, 70.0, 708.8335533968641)
+[02:23:53] [Server thread/INFO]: CazadorSky18 joined the game
+[02:24:14] [Server thread/INFO]: <CazadorSky18> Christian
+[02:24:19] [Server thread/INFO]: <CazadorSky18> sabes donde hay mar???
+[02:24:19] [Server thread/INFO]: <Christoro123> dime
+[02:24:24] [Server thread/INFO]: <Christoro123> ni idea
+[02:24:32] [Server thread/INFO]: <CazadorSky18> no tenes alga xd?
+[02:24:41] [Server thread/INFO]: <Christoro123> nop sjjs
+[02:24:45] [Server thread/INFO]: <CazadorSky18> yaya jsjsj
+[02:24:55] [Server thread/INFO]: <Christoro123> tengo portal al nederpor si lo queires usar
+[02:25:03] [Server thread/INFO]: <CazadorSky18> ah ya dale, gracias
+[02:26:59] [Server thread/INFO]: <CazadorSky18> podes dormir?
+[02:27:09] [Server thread/INFO]: <Christoro123> no jssjs
+[02:27:13] [Server thread/INFO]: <CazadorSky18> xd
+[02:27:16] [Server thread/INFO]: <Christoro123> toy muy lejos de la cama
+[02:27:28] [Server thread/INFO]: CazadorSky18 has made the advancement [Ice Bucket Challenge]
+[02:27:33] [Server thread/INFO]: <CazadorSky18> yo ando explorando xd
+[02:28:01] [Server thread/INFO]: m4rtin015sep[/127.15.246.136:58447] logged in with entity id 2512 at (351.58907684996507, 68.0, -393.7004488511227)
+[02:28:01] [Server thread/INFO]: m4rtin015sep joined the game
+[02:28:02] [Server thread/INFO]: m4rtin015sep lost connection: Disconnected
+[02:28:02] [Server thread/INFO]: m4rtin015sep left the game
+[02:28:03] [Server thread/INFO]: m4rtin015sep[/127.15.246.136:36719] logged in with entity id 2633 at (351.58907684996507, 68.0, -393.7004488511227)
+[02:28:03] [Server thread/INFO]: m4rtin015sep joined the game
+[02:29:48] [Server thread/INFO]: <m4rtin015sep> Metete a ds
