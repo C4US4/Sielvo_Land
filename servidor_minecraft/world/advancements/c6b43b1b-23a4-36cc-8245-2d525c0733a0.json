@@ -566,6 +566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-08 02:27:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-07 23:39:31 +0000"
@@ -799,6 +805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-08 02:27:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-07 23:00:46 +0000"
@@ -832,6 +844,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-07 23:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-08 02:31:29 +0000"
     },
     "done": true
   },
@@ -1105,6 +1123,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-08 02:27:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-05-07 23:00:46 +0000"
@@ -1182,6 +1206,7 @@
       "minecraft:forest": "2025-05-05 02:44:52 +0000",
       "minecraft:mountains": "2025-05-07 23:10:57 +0000",
       "minecraft:taiga": "2025-05-08 01:10:14 +0000",
+      "minecraft:taiga_hills": "2025-05-08 02:31:52 +0000",
       "minecraft:river": "2025-05-07 22:54:26 +0000",
       "minecraft:wooded_hills": "2025-05-05 02:40:48 +0000",
       "minecraft:plains": "2025-05-05 02:45:20 +0000"
