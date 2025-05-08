@@ -1,108 +1,54 @@
-[02:19:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:19:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:19:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:19:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:19:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:19:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:19:59] [main/INFO]: Reloading ResourceManager: Default
-[02:20:00] [Worker-Main-2/INFO]: Loaded 7 recipes
-[02:20:01] [Worker-Main-2/INFO]: Loaded 927 advancements
-[02:20:03] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[02:20:03] [Server thread/INFO]: Loading properties
-[02:20:03] [Server thread/INFO]: Default game type: SURVIVAL
-[02:20:03] [Server thread/INFO]: Generating keypair
-[02:20:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:20:04] [Server thread/INFO]: Using epoll channel type
-[02:20:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:20:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:20:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:20:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:20:04] [Server thread/INFO]: Preparing level "world"
-[02:20:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:20:06] [Server thread/INFO]: Preparing spawn area: 0%
-[02:20:06] [Server thread/INFO]: Preparing spawn area: 0%
-[02:20:06] [Server thread/INFO]: Preparing spawn area: 0%
-[02:20:06] [Server thread/INFO]: Preparing spawn area: 0%
-[02:20:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:20:07] [Server thread/INFO]: Preparing spawn area: 51%
-[02:20:07] [Server thread/INFO]: Time elapsed: 3099 ms
-[02:20:07] [Server thread/INFO]: Done (3.215s)! For help, type "help"
-[02:21:18] [Server thread/INFO]: Christoro123[/127.98.35.230:51641] logged in with entity id 121 at (223.30000001192093, 68.0, -193.6738052288999)
-[02:21:18] [Server thread/INFO]: Christoro123 joined the game
-[02:23:06] [Server thread/INFO]: CazadorSky18[/127.181.17.126:58637] logged in with entity id 540 at (-164.22793420034654, 70.0, 708.8335533968641)
-[02:23:06] [Server thread/INFO]: CazadorSky18 joined the game
-[02:23:21] [Server thread/INFO]: CazadorSky18 lost connection: Timed out
-[02:23:21] [Server thread/INFO]: CazadorSky18 left the game
-[02:23:53] [Server thread/INFO]: CazadorSky18[/127.181.17.126:35477] logged in with entity id 1085 at (-164.22793420034654, 70.0, 708.8335533968641)
-[02:23:53] [Server thread/INFO]: CazadorSky18 joined the game
-[02:24:14] [Server thread/INFO]: <CazadorSky18> Christian
-[02:24:19] [Server thread/INFO]: <CazadorSky18> sabes donde hay mar???
-[02:24:19] [Server thread/INFO]: <Christoro123> dime
-[02:24:24] [Server thread/INFO]: <Christoro123> ni idea
-[02:24:32] [Server thread/INFO]: <CazadorSky18> no tenes alga xd?
-[02:24:41] [Server thread/INFO]: <Christoro123> nop sjjs
-[02:24:45] [Server thread/INFO]: <CazadorSky18> yaya jsjsj
-[02:24:55] [Server thread/INFO]: <Christoro123> tengo portal al nederpor si lo queires usar
-[02:25:03] [Server thread/INFO]: <CazadorSky18> ah ya dale, gracias
-[02:26:59] [Server thread/INFO]: <CazadorSky18> podes dormir?
-[02:27:09] [Server thread/INFO]: <Christoro123> no jssjs
-[02:27:13] [Server thread/INFO]: <CazadorSky18> xd
-[02:27:16] [Server thread/INFO]: <Christoro123> toy muy lejos de la cama
-[02:27:28] [Server thread/INFO]: CazadorSky18 has made the advancement [Ice Bucket Challenge]
-[02:27:33] [Server thread/INFO]: <CazadorSky18> yo ando explorando xd
-[02:28:01] [Server thread/INFO]: m4rtin015sep[/127.15.246.136:58447] logged in with entity id 2512 at (351.58907684996507, 68.0, -393.7004488511227)
-[02:28:01] [Server thread/INFO]: m4rtin015sep joined the game
-[02:28:02] [Server thread/INFO]: m4rtin015sep lost connection: Disconnected
-[02:28:02] [Server thread/INFO]: m4rtin015sep left the game
-[02:28:03] [Server thread/INFO]: m4rtin015sep[/127.15.246.136:36719] logged in with entity id 2633 at (351.58907684996507, 68.0, -393.7004488511227)
-[02:28:03] [Server thread/INFO]: m4rtin015sep joined the game
-[02:29:48] [Server thread/INFO]: <m4rtin015sep> Metete a ds
-[02:30:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
-[02:31:29] [Server thread/INFO]: CazadorSky18 has made the advancement [Best Friends Forever]
-[02:32:40] [Server thread/INFO]: <m4rtin015sep> duerman
-[02:32:46] [Server thread/INFO]: <m4rtin015sep> o salganse
-[02:34:36] [Server thread/INFO]: <Christoro123> durmiendo
-[02:34:55] [Server thread/INFO]: <m4rtin015sep> dale gerson
-[02:34:58] [Server thread/INFO]: <CazadorSky18> ya
-[02:34:59] [Server thread/INFO]: <CazadorSky18> zzzz
-[02:36:11] [Server thread/INFO]: <CazadorSky18> ya chavales
-[02:36:15] [Server thread/INFO]: <CazadorSky18> yo me retiro
-[02:36:18] [Server thread/INFO]: <CazadorSky18> nos vemos
-[02:36:25] [Server thread/INFO]: <CazadorSky18> cuidense, tomen awita
-[02:36:32] [Server thread/INFO]: <m4rtin015sep> nos vemos
-[02:36:41] [Server thread/INFO]: <CazadorSky18> en un rato se cierra el server
-[02:36:46] [Server thread/INFO]: CazadorSky18 lost connection: Disconnected
-[02:36:46] [Server thread/INFO]: CazadorSky18 left the game
-[02:36:47] [Server thread/INFO]: <m4rtin015sep> por
-[02:36:59] [Server thread/INFO]: Christoro123 fell from a high place
-[02:37:37] [Server thread/INFO]: [Server] porque asi dura mas en el mes xd
-[02:37:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:37:46] [Server thread/INFO]: ademas mucho vicio jsksjkas<--[HERE]
-[02:37:54] [Server thread/INFO]: <m4rtin015sep> se van a conectar los chiquilos dsp
-[02:37:56] [Server thread/INFO]: [Server] ademas mucho vicio jsaksjak
-[02:38:02] [Server thread/INFO]: [Server] ah bue
-[02:41:28] [Server thread/INFO]: <Christoro123> me faltaba comida asi que robe zanahorias pero plante nuevsa sjjs
-[02:41:33] [Server thread/INFO]: m4rtin015sep has made the advancement [Enchanter]
-[02:41:43] [Server thread/INFO]: <m4rtin015sep> jajajaj
-[02:42:07] [Server thread/INFO]: <m4rtin015sep> el ale se la vicio
-[02:44:05] [Server thread/INFO]: Christoro123 has made the advancement [Take Aim]
-[02:47:31] [Server thread/INFO]: KNISPEL_[/127.251.45.86:37693] logged in with entity id 10228 at (422.7635101760698, 79.0, -39.993803647872525)
-[02:47:31] [Server thread/INFO]: KNISPEL_ joined the game
-[02:48:06] [Server thread/INFO]: KNISPEL_ lost connection: Disconnected
-[02:48:06] [Server thread/INFO]: KNISPEL_ left the game
-[02:48:06] [Server thread/INFO]: m4rtin015sep lost connection: Disconnected
-[02:48:06] [Server thread/INFO]: m4rtin015sep left the game
-[02:48:09] [Server thread/INFO]: KNISPEL_[/127.251.45.86:49937] logged in with entity id 10333 at (443.32596832360963, 78.0, -65.18661725360838)
-[02:48:09] [Server thread/INFO]: KNISPEL_ joined the game
-[02:48:11] [Server thread/INFO]: m4rtin015sep[/127.15.246.136:39445] logged in with entity id 10428 at (435.30000001192093, 80.0, -78.69999998807899)
-[02:48:11] [Server thread/INFO]: m4rtin015sep joined the game
-[02:49:12] [Server thread/INFO]: m4rtin015sep lost connection: Disconnected
-[02:49:12] [Server thread/INFO]: m4rtin015sep left the game
-[02:49:12] [Server thread/INFO]: KNISPEL_ lost connection: Disconnected
-[02:49:12] [Server thread/INFO]: KNISPEL_ left the game
-[02:49:16] [Server thread/INFO]: KNISPEL_[/127.251.45.86:50229] logged in with entity id 10626 at (443.33953585206564, 78.0, -64.10796994114973)
-[02:49:16] [Server thread/INFO]: KNISPEL_ joined the game
-[02:49:19] [Server thread/INFO]: m4rtin015sep[/127.15.246.136:58301] logged in with entity id 10714 at (438.1686121361265, 79.0, -65.50803153690703)
-[02:49:19] [Server thread/INFO]: m4rtin015sep joined the game
-[02:50:01] [Server thread/INFO]: <m4rtin015sep> duerman
-[02:50:25] [Server thread/INFO]: <m4rtin015sep> el q no puede se salee
+[03:11:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:11:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:11:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:11:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:11:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:11:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:11:58] [main/INFO]: Reloading ResourceManager: Default
+[03:12:01] [Worker-Main-2/INFO]: Loaded 7 recipes
+[03:12:02] [Worker-Main-2/INFO]: Loaded 927 advancements
+[03:12:06] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[03:12:06] [Server thread/INFO]: Loading properties
+[03:12:06] [Server thread/INFO]: Default game type: SURVIVAL
+[03:12:06] [Server thread/INFO]: Generating keypair
+[03:12:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:12:06] [Server thread/INFO]: Using epoll channel type
+[03:12:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:12:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:12:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:12:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:12:07] [Server thread/INFO]: Preparing level "world"
+[03:12:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:12:14] [Server thread/INFO]: Preparing spawn area: 0%
+[03:12:14] [Server thread/INFO]: Preparing spawn area: 83%
+[03:12:15] [Server thread/INFO]: Time elapsed: 7561 ms
+[03:12:15] [Server thread/INFO]: Done (7.861s)! For help, type "help"
+[03:12:26] [Server thread/INFO]: m4rtin015sep[/127.15.246.136:49077] logged in with entity id 160 at (278.5, 66.0, -255.5)
+[03:12:26] [Server thread/INFO]: m4rtin015sep joined the game
+[03:15:43] [Server thread/INFO]: KNISPEL_[/127.251.45.86:49373] logged in with entity id 904 at (443.5, 107.0, -82.5)
+[03:15:43] [Server thread/INFO]: KNISPEL_ joined the game
+[03:15:50] [Server thread/INFO]: [Server] ya gente
+[03:15:54] [Server thread/INFO]: [Server] se cierra el server
+[03:15:58] [Server thread/INFO]: <KNISPEL_> noooo
+[03:15:59] [Server thread/INFO]: [Server] jskasjkas
+[03:16:02] [Server thread/INFO]: <KNISPEL_> la polizia
+[03:16:05] [Server thread/INFO]: [Server] XD
+[03:16:07] [Server thread/INFO]: <m4rtin015sep> anda a acostarte
+[03:16:11] [Server thread/INFO]: <m4rtin015sep> mañana hay clases
+[03:16:21] [Server thread/INFO]: [Server] me voy pero apago el server
+[03:16:34] [Server thread/INFO]: [Server] mejor juega mientras
+[03:17:12] [Server thread/INFO]: Aleeee[/127.127.204.233:33557] logged in with entity id 1473 at (274.6840285633005, 66.0, -254.35399075104363)
+[03:17:12] [Server thread/INFO]: Aleeee joined the game
