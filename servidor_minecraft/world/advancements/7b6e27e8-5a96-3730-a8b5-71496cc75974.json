@@ -376,7 +376,8 @@
       "spider_eye": "2025-05-08 00:26:42 +0000",
       "mutton": "2025-05-06 02:10:34 +0000",
       "rotten_flesh": "2025-05-06 01:23:25 +0000",
-      "cooked_chicken": "2025-05-06 01:36:06 +0000"
+      "cooked_chicken": "2025-05-06 01:36:06 +0000",
+      "carrot": "2025-05-08 01:05:18 +0000"
     },
     "done": false
   },
@@ -1759,6 +1760,12 @@
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-05-06 02:08:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-08 01:05:16 +0000"
     },
     "done": true
   },
