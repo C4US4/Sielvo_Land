@@ -1,79 +1,68 @@
-[03:11:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:11:58] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:11:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:11:58] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:11:58] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[03:11:58] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[03:11:58] [main/INFO]: Reloading ResourceManager: Default
-[03:12:01] [Worker-Main-2/INFO]: Loaded 7 recipes
-[03:12:02] [Worker-Main-2/INFO]: Loaded 927 advancements
-[03:12:06] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[03:12:06] [Server thread/INFO]: Loading properties
-[03:12:06] [Server thread/INFO]: Default game type: SURVIVAL
-[03:12:06] [Server thread/INFO]: Generating keypair
-[03:12:06] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:12:06] [Server thread/INFO]: Using epoll channel type
-[03:12:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:12:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:12:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:12:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:12:07] [Server thread/INFO]: Preparing level "world"
-[03:12:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:12:14] [Server thread/INFO]: Preparing spawn area: 0%
-[03:12:14] [Server thread/INFO]: Preparing spawn area: 83%
-[03:12:15] [Server thread/INFO]: Time elapsed: 7561 ms
-[03:12:15] [Server thread/INFO]: Done (7.861s)! For help, type "help"
-[03:12:26] [Server thread/INFO]: m4rtin015sep[/127.15.246.136:49077] logged in with entity id 160 at (278.5, 66.0, -255.5)
-[03:12:26] [Server thread/INFO]: m4rtin015sep joined the game
-[03:15:43] [Server thread/INFO]: KNISPEL_[/127.251.45.86:49373] logged in with entity id 904 at (443.5, 107.0, -82.5)
-[03:15:43] [Server thread/INFO]: KNISPEL_ joined the game
-[03:15:50] [Server thread/INFO]: [Server] ya gente
-[03:15:54] [Server thread/INFO]: [Server] se cierra el server
-[03:15:58] [Server thread/INFO]: <KNISPEL_> noooo
-[03:15:59] [Server thread/INFO]: [Server] jskasjkas
-[03:16:02] [Server thread/INFO]: <KNISPEL_> la polizia
-[03:16:05] [Server thread/INFO]: [Server] XD
-[03:16:07] [Server thread/INFO]: <m4rtin015sep> anda a acostarte
-[03:16:11] [Server thread/INFO]: <m4rtin015sep> mañana hay clases
-[03:16:21] [Server thread/INFO]: [Server] me voy pero apago el server
-[03:16:34] [Server thread/INFO]: [Server] mejor juega mientras
-[03:17:12] [Server thread/INFO]: Aleeee[/127.127.204.233:33557] logged in with entity id 1473 at (274.6840285633005, 66.0, -254.35399075104363)
-[03:17:12] [Server thread/INFO]: Aleeee joined the game
-[03:24:34] [Server thread/INFO]: KNISPEL_ lost connection: Disconnected
-[03:24:34] [Server thread/INFO]: KNISPEL_ left the game
-[03:24:55] [Server thread/INFO]: KNISPEL_[/127.251.45.86:44849] logged in with entity id 3986 at (445.12636967708204, 97.0, 76.24208891157434)
-[03:24:55] [Server thread/INFO]: KNISPEL_ joined the game
-[03:25:01] [Server thread/INFO]: [Server] a las 23:35 se apagara el server gente
-[03:25:14] [Server thread/INFO]: <Aleeee> txiu
-[03:25:18] [Server thread/INFO]: <m4rtin015sep> ponte serio loko
-[03:25:22] [Server thread/INFO]: <KNISPEL_> yapo gerson si mañana no vas al cole
-[03:25:25] [Server thread/INFO]: <Aleeee> oye sabes si hay forma de pasar el server a aternos?
-[03:25:42] [Server thread/INFO]: <KNISPEL_> pasa el host
-[03:25:42] [Server thread/INFO]: [Server] como que no xdddd
-[03:26:03] [Server thread/INFO]: <m4rtin015sep> puedes copiar el mundo y pasarlo a aternos?
-[03:26:03] [Server thread/INFO]: [Server] tendria que ver Ale, es cosa de investigar y te digo
-[03:26:15] [Server thread/INFO]: <Aleeee> seria bueno eso
-[03:26:21] [Server thread/INFO]: <m4rtin015sep> te apurai
-[03:26:23] [Server thread/INFO]: <m4rtin015sep> sdjakjda
-[03:26:25] [Server thread/INFO]: <Aleeee> asi no dependemos de horas abiertas del server
-[03:26:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[03:26:36] [Server thread/INFO]: lo del host... no se, lo mismo, habria que investigar xd<--[HERE]
-[03:26:57] [Server thread/INFO]: [Server] lo del host... lo mismo xd habria que investigar
-[03:27:06] [Server thread/INFO]: <Aleeee> ah
-[03:28:43] [Server thread/INFO]: m4rtin015sep lost connection: Disconnected
-[03:28:43] [Server thread/INFO]: m4rtin015sep left the game
-[03:29:44] [Server thread/INFO]: m4rtin015sep[/127.15.246.136:38877] logged in with entity id 5250 at (451.94874895307123, 107.0, -78.86693089698373)
-[03:29:44] [Server thread/INFO]: m4rtin015sep joined the game
+[03:41:19] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:41:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:41:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:41:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:41:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:41:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:41:20] [main/INFO]: Reloading ResourceManager: Default
+[03:41:23] [Worker-Main-2/INFO]: Loaded 7 recipes
+[03:41:24] [Worker-Main-2/INFO]: Loaded 927 advancements
+[03:41:27] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[03:41:27] [Server thread/INFO]: Loading properties
+[03:41:27] [Server thread/INFO]: Default game type: SURVIVAL
+[03:41:27] [Server thread/INFO]: Generating keypair
+[03:41:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:41:28] [Server thread/INFO]: Using epoll channel type
+[03:41:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:41:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:41:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:41:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:41:28] [Server thread/INFO]: Preparing level "world"
+[03:41:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:41:33] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:33] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:33] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:33] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:33] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:33] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:33] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:33] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:33] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:33] [Server thread/INFO]: Preparing spawn area: 0%
+[03:41:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:41:34] [Server thread/INFO]: Preparing spawn area: 24%
+[03:41:34] [Server thread/INFO]: Preparing spawn area: 73%
+[03:41:35] [Server thread/INFO]: Time elapsed: 6875 ms
+[03:41:35] [Server thread/INFO]: Done (7.093s)! For help, type "help"
+[03:41:39] [Server thread/INFO]: m4rtin015sep[/127.15.246.136:39311] logged in with entity id 136 at (274.1033093897931, 66.0, -255.32547278069558)
+[03:41:39] [Server thread/INFO]: m4rtin015sep joined the game
+[03:42:08] [Server thread/INFO]: [Server] el meno vio de su casa jskajskas
+[03:42:19] [Server thread/INFO]: <m4rtin015sep> buuuu
+[03:42:21] [Server thread/INFO]: <m4rtin015sep> manoooooo
+[03:42:29] [Server thread/INFO]: <m4rtin015sep> puedes descargar el mundo
+[03:42:40] [Server thread/INFO]: <m4rtin015sep> y enviarnoslo
+[03:42:46] [Server thread/INFO]: [Server] ahora no hno
+[03:42:48] [Server thread/INFO]: <m4rtin015sep> para ponerlo en aterno
+[03:42:52] [Server thread/INFO]: [Server] quiero dormir
+[03:43:03] [Server thread/INFO]: [Server] mañana lo hago
+[03:43:14] [Server thread/INFO]: [Server] descansa tambien tu
+[03:43:32] [Server thread/INFO]: [Server] buenas noches
+[03:43:38] [Server thread/INFO]: <m4rtin015sep> poco serioooo
+[03:43:48] [Server thread/INFO]: [Server] a las 23.45 lo cierro
+[03:43:57] [Server thread/INFO]: [Server] apura lo que estes haciendo
+[03:44:03] [Server thread/INFO]: <m4rtin015sep> cierra altiro nms
+[03:44:09] [Server thread/INFO]: [Server] ah bueno
+[03:44:13] [Server thread/INFO]: [Server] descansa xd
+[03:44:17] [Server thread/INFO]: Stopping the server
+[03:44:17] [Server thread/INFO]: Stopping server
+[03:44:17] [Server thread/INFO]: Saving players
+[03:44:17] [Server thread/INFO]: Saving worlds
+[03:44:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:44:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:44:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:44:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
