@@ -494,6 +494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-08 01:01:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-05 02:42:14 +0000"
@@ -666,6 +672,7 @@
     "criteria": {
       "minecraft:spider": "2025-05-07 02:26:57 +0000",
       "minecraft:zombified_piglin": "2025-05-07 23:28:59 +0000",
+      "minecraft:enderman": "2025-05-08 00:57:02 +0000",
       "minecraft:zombie": "2025-05-07 02:20:53 +0000",
       "minecraft:zombie_villager": "2025-05-07 02:34:07 +0000"
     },
@@ -902,6 +909,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-07 02:21:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-05-08 01:01:14 +0000"
     },
     "done": true
   },
@@ -1392,6 +1405,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-05-08 00:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-08 01:02:03 +0000"
     },
     "done": true
   },
